@@ -1,0 +1,15 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Generated image export (the save button overwrites this file)
+edited_image.png
+
+# Processing build and application exports
+build/
+out/
+application.*/
+*.class
+
+# Local copies of superseded sketch files
+.local-backups/
