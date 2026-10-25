@@ -4,7 +4,7 @@ Use this guide to publish your own copy of the project with three meaningful com
 
 ## Repository presentation
 
-Suggested repository name: `photo_editor_application`
+Repository name: `photo-editor-application`
 
 Suggested description:
 
@@ -61,12 +61,12 @@ Expect three commits and a clean working tree. The old duplicate main tab is pre
 
 All three commits can be uploaded in one push and will remain separate in the repository history. These record three parts of the initial import; they do not represent work on three different days. For profile contribution credit, use an email linked to your GitHub account and push to the repository's default branch. See [GitHub's contribution criteria](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference).
 
-On GitHub, create a new empty repository named `photo_editor_application`. Leave GitHub's automatic README, license, and `.gitignore` options unchecked so the remote starts empty.
+On GitHub, create a new empty repository named `photo-editor-application`. Leave GitHub's automatic README, license, and `.gitignore` options unchecked so the remote starts empty.
 
 Copy the repository's HTTPS URL from GitHub. Replace `YOUR_USERNAME` below with your account name, then run:
 
 ```sh
-git remote add origin https://github.com/YOUR_USERNAME/photo_editor_application.git
+git remote add origin https://github.com/YOUR_USERNAME/photo-editor-application.git
 git push -u origin main
 ```
 

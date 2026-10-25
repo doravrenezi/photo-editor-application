@@ -15,7 +15,7 @@ The interface uses a minimal black-and-white design, a shared adjustment slider,
 ## Run locally
 
 1. Install [Processing](https://processing.org/download). Use **Processing 4, Java mode**.
-2. Download or clone this repository. Keep the project folder named `photo_editor_application` so it matches the main sketch filename. If downloading a ZIP, rename the extracted folder if it has a branch suffix such as `-main`.
+2. Download this repository or clone it with `git clone https://github.com/doravrenezi/photo-editor-application.git photo_editor_application`. Keep the project folder named `photo_editor_application` so it matches the main sketch filename. If downloading a ZIP, rename the extracted folder if it has a branch suffix such as `-main`.
 3. Open `photo_editor_application.pde` in Processing. The other `.pde` files appear as tabs in the same sketch.
 4. Click **Run** (the triangle button).
 
